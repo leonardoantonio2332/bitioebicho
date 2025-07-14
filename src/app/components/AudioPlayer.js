@@ -41,7 +41,7 @@ export default function AudioPlayer({ src }) {
     <div
       style={{
         display: 'flex',
-        alignItems: 'center', // Centraliza verticalmente
+        alignItems: 'center',
         justifyContent: 'center',
         gap: '1rem',
         width: '90%',
